@@ -1,4 +1,4 @@
-
+//    https://css-tricks.com/intro-firebase-react/    ///
   // Initialize Firebase
   import firebase from 'firebase'
   const config = {
