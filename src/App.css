@@ -5,7 +5,7 @@ body {
 
 header {
   color: #fff;
-  background-color: #103D5D;
+  background-color: #3B8B88;
   padding: 33px 0 25px 15px;
 }
 
@@ -52,7 +52,7 @@ header i {
 
 .add-item {
   border-radius: 2px;
-  border-top: 3px solid #103D5D;
+  border-top: 3px solid #3B8B88;
   margin-right: 50px;
   background-color: rgb(237, 237, 237);
   padding: 60px 18px;
@@ -113,7 +113,7 @@ h2 {
 }
 
 li h3 {
-  background-color: #103D5D;
+  background-color: #3B8B88;
   margin: 0;
   color: #fff;
   font-weight: 300;
@@ -132,7 +132,7 @@ form button {
 button {
   border-radius: 2px;
   min-width: 88px;
-  background-color: #FA6900;
+  background-color: #F78154;
   cursor: pointer;
   border: 0;
   min-width: 120px;
